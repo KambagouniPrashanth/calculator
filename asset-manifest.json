@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KambagouniPrashanth.io/calculator/static/css/main.243227ae.css",
+    "main.js": "/KambagouniPrashanth.io/calculator/static/js/main.45a0fec0.js",
+    "static/js/787.a174f9e5.chunk.js": "/KambagouniPrashanth.io/calculator/static/js/787.a174f9e5.chunk.js",
+    "static/media/logo.svg": "/KambagouniPrashanth.io/calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KambagouniPrashanth.io/calculator/index.html",
+    "main.243227ae.css.map": "/KambagouniPrashanth.io/calculator/static/css/main.243227ae.css.map",
+    "main.45a0fec0.js.map": "/KambagouniPrashanth.io/calculator/static/js/main.45a0fec0.js.map",
+    "787.a174f9e5.chunk.js.map": "/KambagouniPrashanth.io/calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.243227ae.css",
+    "static/js/main.45a0fec0.js"
+  ]
+}
